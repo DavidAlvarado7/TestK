@@ -1,4 +1,6 @@
 ﻿using System;
+using static System.Runtime.InteropServices.JavaScript.JSType;
+
 namespace TestK
 {
 	public class Player
@@ -42,7 +44,20 @@ namespace TestK
 
         }
 
-       
+
+		public class RandomPlayer : Player
+        {
+            public RandomPlayer()
+			{
+                
+                Random random = new Random();
+				
+
+
+
+			}
+
+		}
     }
 }
 
