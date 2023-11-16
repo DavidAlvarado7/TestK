@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{C1F0F4CB-C91A-43AF-B794-B5F901C9DB82}|Default">
+  <MonoDevelop.Ide.ItemProperties.TestK FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TestK/Player.cs">
+    <Files>
+      <File FileName="TestK/Program.cs" />
+      <File FileName="TestK/Player.cs" Line="40" Column="1" />
+      <File FileName="TestK/EmptyEnumeration.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TestK" expanded="True">
+            <Node name="TestK" expanded="True">
+              <Node name="Player.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
