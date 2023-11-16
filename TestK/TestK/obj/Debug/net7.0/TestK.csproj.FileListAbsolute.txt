@@ -1,0 +1,15 @@
+/Users/david/Projects/TestK/TestK/TestK/bin/Debug/net7.0/TestK
+/Users/david/Projects/TestK/TestK/TestK/bin/Debug/net7.0/TestK.deps.json
+/Users/david/Projects/TestK/TestK/TestK/bin/Debug/net7.0/TestK.runtimeconfig.json
+/Users/david/Projects/TestK/TestK/TestK/bin/Debug/net7.0/TestK.dll
+/Users/david/Projects/TestK/TestK/TestK/bin/Debug/net7.0/TestK.pdb
+/Users/david/Projects/TestK/TestK/TestK/obj/Debug/net7.0/TestK.csproj.AssemblyReference.cache
+/Users/david/Projects/TestK/TestK/TestK/obj/Debug/net7.0/TestK.GeneratedMSBuildEditorConfig.editorconfig
+/Users/david/Projects/TestK/TestK/TestK/obj/Debug/net7.0/TestK.AssemblyInfoInputs.cache
+/Users/david/Projects/TestK/TestK/TestK/obj/Debug/net7.0/TestK.AssemblyInfo.cs
+/Users/david/Projects/TestK/TestK/TestK/obj/Debug/net7.0/TestK.csproj.CoreCompileInputs.cache
+/Users/david/Projects/TestK/TestK/TestK/obj/Debug/net7.0/TestK.dll
+/Users/david/Projects/TestK/TestK/TestK/obj/Debug/net7.0/refint/TestK.dll
+/Users/david/Projects/TestK/TestK/TestK/obj/Debug/net7.0/TestK.pdb
+/Users/david/Projects/TestK/TestK/TestK/obj/Debug/net7.0/TestK.genruntimeconfig.cache
+/Users/david/Projects/TestK/TestK/TestK/obj/Debug/net7.0/ref/TestK.dll

@@ -7,10 +7,17 @@ namespace TestK
 		public string Name { get; set; }
 		public string Value { get; set; }
 
-		public Player(string name, string value)
+
+		public Player()
+		{
+			Name = string.Empty;
+			Value = string.Empty;
+		}
+
+		public Player(string name)
 		{
 			name = Name;
-			value = Value;
+			
 
 		}
 
@@ -27,19 +34,15 @@ namespace TestK
 	{
 		public string Rock { get; set; }
 
-		public RockPlayer(string name, string value)
+		public RockPlayer(string name)
 		{
 			name = Name;
-			value = Value;
+			Value = Rosh.Rock.ToString();
 
 
         }
 
-        public override string ToString()
-		{
-
-		}
-
+       
     }
 }
 
